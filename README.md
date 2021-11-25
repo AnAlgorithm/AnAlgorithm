@@ -9,5 +9,5 @@ Sort-of beginner to GitHub? <hr>
 
 <a href="https://github.com/analgorithm/analgorithm">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=analgorithm&repo=bork-bork-bork&theme=github_dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=analgorithm&repo=micro-coin&theme=github_dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=analgorithm&repo=micro-coin&theme=github_dark" style="margin:0px;"/>
 </a>
