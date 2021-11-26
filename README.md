@@ -2,7 +2,7 @@
 
 Hello. I'm AnAlgorithm. <br>
 I'm currently experimenting a lot and I have *Clearly* no idea what to do. <br>
-Sort-of beginner to GitHub? <br>
+Sort-of beginner to GitHub... <br>
 
 [My Scratch Profile](https://scratch.mit.edu/users/AnAlgorithm)
 <br>
