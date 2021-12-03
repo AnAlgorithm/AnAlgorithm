@@ -19,11 +19,17 @@ print("My favourite language is Python.")
 
 
 
-<hr>
+<hr><span align="left" width="495">
 
 <!-- Github Stats card and stuff -->
+  
 [![AnAlg's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnAlgorithm&theme=github_dark)](https://github.com/analgorithm/AnAlgorithm)
 
 <a href="https://github.com/analgorithm/bork-bork-bork">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=analgorithm&repo=bork-bork-bork&theme=github_dark"/>
-</a>
+</a> </span>
+
+<br><br><br><br><br><br> <hr>
+  
+![Wrapper Card 1](https://user-images.githubusercontent.com/64064699/144553680-b6f3ed95-8079-44aa-bb50-7d2de289843f.jpg)
+
