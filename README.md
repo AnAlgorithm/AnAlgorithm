@@ -4,7 +4,7 @@ Hello. I'm AnAlgorithm. <br>
 I'm currently experimenting a lot and I have *Clearly* no idea what to do. <br>
 Sort-of beginner to GitHub... <br>
 
-[My Scratch Profile](https://scratch.mit.edu/users/AnAlgorithm)
+[Scratch](https://scratch.mit.edu/users/AnAlgorithm) | [Lichess](https://lichess.org/@/FlameImpala)
 <br>
 ```python
 print("My favourite language is Python.")
