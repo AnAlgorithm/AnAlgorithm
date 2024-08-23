@@ -1,8 +1,13 @@
 # Hello, I'm AnAlgorithm.
 
 Hello. I'm AnAlgorithm. <br>
-I'm currently experimenting a lot and I have *Clearly* no idea what to do. <br>
+I'm currently experimenting a lot and I *clearly* have no idea what to do. <br>
 Sort-of beginner to GitHub... <br>
+
+
+<hr> <!-- Metrics --><span align="left">
+  
+![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnAlgorithm&theme=aura_dark) <a href="https://github.com/AnAlgorithm"><img src="octocat.png" height="250"></a>
 
 <hr> 
 
@@ -11,6 +16,3 @@ Sort-of beginner to GitHub... <br>
 
 
 <br>
-<hr> <!-- Metrics --><span align="left">
-  
-![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnAlgorithm&theme=aura_dark)
