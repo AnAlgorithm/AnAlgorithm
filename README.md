@@ -7,7 +7,7 @@ Sort-of beginner to GitHub... <br>
 
 <hr> <!-- Metrics --><span align="left">
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnAlgorithm&theme=aura_dark" height="80%" width="65%"> <a href="https://github.com/AnAlgorithm"><img src="octocat.png" height="220"></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnAlgorithm&theme=aura_dark" height="90%"> <a href="https://github.com/AnAlgorithm"><img src="octocat.png" height="220"></a>
 
 <hr> 
 
